@@ -1,0 +1,56 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: blueviolet;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+background-color: aqua;
+color: blue;
+    padding: lem 0;
+    text-align: center;
+}
+
+nav ul{
+    list-style:none;
+    margin-top: 1em 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 auto ;
+}
+
+nav a {
+    color: wheat;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 25px;
+    background-color: beige;
+    padding: 20;
+    border-radius: 6px;
+}
+
+foster {
+    text-align: center;
+    padding: lem 4;
+    background-color: antiquewhite;
+    color: aquamarine;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
